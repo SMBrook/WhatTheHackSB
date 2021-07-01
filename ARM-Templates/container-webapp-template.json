@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "defaultValue": "smbcwdevops-dev",
+            "defaultValue": "smbcwdevops-devops-test",
             "type": "String"
         },
         "hostingPlanName": {
