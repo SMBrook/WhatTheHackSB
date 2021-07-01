@@ -1,4 +1,7 @@
-on: [push]
+on:
+  push:
+    paths:
+      - './workflows/deployTest.yml'
 name: Azure ARM
 jobs:
   build-and-deploy:
